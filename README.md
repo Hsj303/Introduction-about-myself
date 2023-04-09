@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hsj303
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning image compression algorithms, Machine Learning, JPEG AI etc.
-- 📫 How to reach me by melonfif1@naver.com
+- 👋 Hi, I’m Seungjin, Han
+- 👀 I’m interested in solving several Inverse problems(image reconstruction, image compression, etc) by Deep Learning. 
+- 🌱 I’m currently learning Deep learning, Image compression, Generative models etc.
+- 📫 How to reach me by hsj7486@gmail.com, hsj_2677@naver.com
 
 <!---
 Hsj303/Hsj303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
